@@ -1,0 +1,2105 @@
+[{
+  "_id": {
+    "$oid": "614719a48f8c1759a70a3bd7"
+  },
+  "place": "Mahu (Madhya Pradesh)",
+  "description": "Born at Mahu (Madhya Pradesh), the fourteenth child of Subhedar Ramji\nSakpal and Mrs Bhimabai Ambedkar.",
+  "title": "Born",
+  "date": "14-04-1891",
+  "eventImage": "https://drive.google.com/uc?export=view&id=18yHqZeA7rV8Cuty1Aqg5jFUTNSfopcRT",
+  "eventdate": "1891-04-14",
+  "imageId": "18yHqZeA7rV8Cuty1Aqg5jFUTNSfopcRT",
+  "updatedAt": {
+    "$date": "2021-10-17T11:09:13.496Z"
+  },
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a48f8c1759a70a3bd8"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "description": "Entered the Government High School at Satara.",
+  "title": "Entered the Government High School at Satara.",
+  "date": "07-11-1900",
+  "eventdate": "1990-11-07",
+  "dateFormat": "YMD",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a48f8c1759a70a3bd9"
+  },
+  "place": "Ind",
+  "description": "Death of the mother, Mrs Bhimabai Ambedkar",
+  "title": "Death of the mother",
+  "date": "1896",
+  "eventdate": "1896",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a48f8c1759a70a3bda"
+  },
+  "description": "Entered the Elphinstone High School at Bombay.",
+  "title": "Entered the Elphinstone High School at Bombay.",
+  "date": "1904",
+  "eventdate": "1904",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a48f8c1759a70a3bdb"
+  },
+  "description": "Married Ramabai daughter of Mr. Bhiku Walangkar, one of the relations of\nGopal Baba Walangkar",
+  "title": "Married Ramabai",
+  "date": "04-04-1906",
+  "eventdate": "1906-04-04",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a48f8c1759a70a3bdc"
+  },
+  "description": "Passed Matriculation Examination, scored 382 marks out of 750.",
+  "title": "Passed Matriculation Examination, scored 382 marks out of 750.",
+  "date": "1907",
+  "eventdate": "-7-19",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a48f8c1759a70a3bdd"
+  },
+  "place": "Bombay",
+  "description": "Honoured in a meeting presided over by Shri S K Bole, Shri K A (Dada)\nKeluskar Guruji presented a book on the life of Gautam Buddha written by\nhim. Entered the Elphinstone College, Bombay.",
+  "title": "Honoured in a meeting presided over by Shri S K Bole, Shri K A (Dada)",
+  "date": "00-01-1908",
+  "eventdate": "1908-01",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a48f8c1759a70a3bde"
+  },
+  "description": "December 1912 Birth of the son Yeshwant.",
+  "title": "December 1912 Birth of the son Yeshwant.",
+  "date": "00-12-1912",
+  "eventdate": "1912-12",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a48f8c1759a70a3bdf"
+  },
+  "place": "Bombay",
+  "description": "1913 Passed B.A Examination with Persian and English from University of Bombay,\nscored 449 marks out of 1000.",
+  "title": "Passed B.A Examination",
+  "date": "00-00-1913",
+  "eventdate": "1913",
+  "dateFormat": "Y",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a48f8c1759a70a3be0"
+  },
+  "place": "Bombay",
+  "description": "Febraury 1913 Death of father Subhedar Ramji Maloji Ambedkar at Bombay.",
+  "title": "Death of father Subhedar Ramji Maloji Ambedkar",
+  "date": "02-02-1913",
+  "eventdate": "1913-02-02 00:00:00",
+  "eventImage": "https://drive.google.com/uc?export=view&id=1qKE_-H-sVUByJxpi0yiNQvzl23PdU9fD",
+  "imageId": "1qKE_-H-sVUByJxpi0yiNQvzl23PdU9fD",
+  "updatedAt": {
+    "$date": "2021-10-17T16:25:08.309Z"
+  },
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a48f8c1759a70a3be1"
+  },
+  "description": "July 1913 Gaikwad’s Scholar in the Columbia University, New York, reading in the\nFaculty of Political Science.",
+  "title": "Gaikwad’s Scholar in the Columbia University",
+  "date": "00-07-1913",
+  "eventdate": "1913-07",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a48f8c1759a70a3be2"
+  },
+  "description": "5th June 1915 Passed M.A. Examination majoring in Economics and with Sociology, History\nPhilosophy, Anthropology and Politics asthe other subjects of study.",
+  "title": "Passed M.A. Examination",
+  "date": "05-06-1915",
+  "eventdate": "1915-06-05",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a48f8c1759a70a3be3"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "place": "London",
+  "description": "May 1916 Read a paper on The Castes in India’ before Prof. Goldernweiser’s\nAnthropology Seminar. The paper was later published in The Indian\nAntiquary in May 1917. It was also republished in the form of a brochure, the\nfirst published work of Dr Ambedkar. Wrote a Thesis entitled ‘The National\nDivident of India – A Historical and Analytical Study’ for the Ph.D Degree.\nJune 1916 Left Colombia University after completing work for the Ph.D, to join the\nLondon School of Economics and Political Science, London as a graduate\nstudent.",
+  "title": "paper on The Castes in India",
+  "date": "00-05-1916",
+  "eventdate": "1916-05",
+  "dateFormat": "YM",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a48f8c1759a70a3be4"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "description": "1917 Columbia University conferred a Degree of Ph.D.",
+  "title": "1917 Columbia University conferred a Degree of Ph.D.",
+  "date": "00-00-1917",
+  "eventImage": "https://drive.google.com/uc?export=view&id=1hnDAv4SgJcCg5CBTCH40u8NFyYxKIasu",
+  "eventdate": "1917",
+  "imageId": "1hnDAv4SgJcCg5CBTCH40u8NFyYxKIasu",
+  "place": "New York, NY 10027, United States",
+  "updatedAt": {
+    "$date": "2021-10-17T10:50:38.934Z"
+  },
+  "dateFormat": "Y",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a48f8c1759a70a3be5"
+  },
+  "description": "June 1917 Return to India after spending a year in London working on the thesis for the\nM.Sc. (Econ) Degree. The return before completion of the work was\nnecessitated by the termination the scholarship granted by the Baroda State.\nAppointed as Military Secretary to H.H. the Maharaja Gaikwar of Baroda with\na view Finance Minister. But left shortly due to ill. Treatment meted out to him",
+  "title": "Return to India after spending a year in London",
+  "date": "00-06-1917",
+  "eventdate": "1917-06",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a48f8c1759a70a3be6"
+  },
+  "description": "Appointed as Military Secretary to H.H. the Maharaja Gaikwar of Baroda with\na view Finance Minister. But left shortly due to ill. Treatment meted out to him because of his lowly caste.Published “Small Holdings in India and Their\nRemedies",
+  "title": "Appointed as Military Secretary to H.H. the Maharaja Gaikwar of Baroda with\na view Finance Minister. ",
+  "date": "00-07-1917",
+  "eventImage": "https://drive.google.com/uc?export=view&id=1AMntxtmnSktTYzeTOoVOSK9YQ9yI_zti",
+  "eventdate": "1917-07",
+  "imageId": "1AMntxtmnSktTYzeTOoVOSK9YQ9yI_zti",
+  "place": "Baroda",
+  "updatedAt": {
+    "$date": "2021-10-20T14:49:05.411Z"
+  },
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3be7"
+  },
+  "place": "Nagpur",
+  "description": "Gave evidence before the Southborough Commission on Franchise. Attended\nthe Conference of the depressed Classes held at Nagpur.",
+  "title": "Southborough Commission",
+  "date": "00-00-1918",
+  "eventdate": "1918",
+  "dateFormat": "Y",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3be8"
+  },
+  "place": "Bombay",
+  "description": "November 1918 Professor of Political Economy in the Sydenham College of Commerce &\nEconomics, Bombay.",
+  "title": "Professor of Political Economy in the Sydenham College of Commerce &\nEconomics",
+  "date": "00-11-1918",
+  "eventdate": "1918-11",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3be9"
+  },
+  "description": "Started a Marathi Weekly paper Mooknayak to champion the cause of the\n31st January 1920 depressed classes. Shri Nandram Bhatkar was the editor, later Shri Dyander\nGholap was the editor.",
+  "title": "Marathi Weekly paper Mooknayak",
+  "date": "1920-01-31",
+  "eventdate": "1920-01-31",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1,
+  "place": "Maharashtra, India",
+  "updatedAt": {
+    "$date": "2021-12-31T15:41:33.894Z"
+  },
+  "eventImage": "https://drive.google.com/uc?export=view&id=undefined",
+  "imageId": null
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bea"
+  },
+  "place": "Kolhapur",
+  "description": "21st March 1920 Attended depressed classes Conference held under the presidency of\nChhatrapati Shahu Maharaj at Kolhapur.",
+  "title": "Attended depressed classes Conference",
+  "date": "21-03-1920",
+  "eventImage": "https://drive.google.com/uc?export=view&id=1Xbxzd2vAIzqLltHaE-GbD2olG4tBjzLm",
+  "eventdate": "1920-03-21",
+  "imageId": "1Xbxzd2vAIzqLltHaE-GbD2olG4tBjzLm",
+  "updatedAt": {
+    "$date": "2021-10-17T11:20:00.337Z"
+  },
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3beb"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "place": "London",
+  "description": "March 1920 Resigned professorship at Sydenham College to resume his studies in London.",
+  "title": "Resigned professorship",
+  "date": "00-03-1920",
+  "eventdate": "1920-03",
+  "dateFormat": "YM",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bec"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "description": "May 1920 Memorable speech in Nagpur, criticised Karmaveer Shinde and Depressed\nClasses Mission.",
+  "title": "Memorable speech in Nagpur",
+  "date": "00-05-1920",
+  "eventdate": "1920-05",
+  "dateFormat": "YM",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bed"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "description": "September 1920 Rejoined the London School of Economics. Also entered Gray’s Inn to read for\nthe Bar.",
+  "title": "Rejoined the London School of Economics",
+  "date": "00-09-1920",
+  "eventdate": "1920-09",
+  "dateFormat": "YM",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bee"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "place": "London",
+  "description": "June 1921 The thesis ‘Provincial Decentralisation of Imperial Finance in British India’ was\naccepted for M.Sc. (Econ) Degree by the London University.",
+  "title": "The thesis ‘Provincial Decentralisation of Imperial",
+  "date": "00-06-1921",
+  "eventdate": "1921-06",
+  "dateFormat": "YM",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bef"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "description": "1922­-23 Spent some time in reading economics in the University of Bonn in Germany.",
+  "title": "Spent time in reading economics",
+  "date": "00-00-1922",
+  "eventdate": "1922",
+  "dateFormat": "Y",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bf0"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "description": "March 1923 The Thesis ‘The Problem of the Rupee – Its origin and its solution’ was accepted\nfor the degree of D.Sc. (Econ.). The thesis was published in December 1923 by P\nS King & Company, London. Reissued by Thacker & Company, Bombay in May\n1947 under the title History of Indian Currency and Banking Vol. 1.",
+  "title": "The Thesis ‘The Problem of the Rupee",
+  "date": "00-03-1923",
+  "eventdate": "1923-03",
+  "dateFormat": "YM",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bf1"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "description": "1923 Dr. Ambedkar was called to the BAR.and received his DSc. He then returned to India and set up a legal practice in Bombay. Ambedkar became a champion of untouchable rights.",
+  "title": "Called to the BAR.",
+  "date": "00-00-1923",
+  "eventdate": "1923",
+  "dateFormat": "Y",
+  "place": "England",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bf2"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "place": "India",
+  "description": "April 1923 Returned to India.",
+  "title": "Returned to India.",
+  "date": "00-04-1923",
+  "eventdate": "1923-04",
+  "dateFormat": "YM",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bf3"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "place": "Bombay",
+  "description": "June 1924 Started practice in the Bombay High Court.",
+  "title": "June 1924 Started practice in the Bombay High Court.",
+  "date": "00-06-1924",
+  "eventdate": "1924-06",
+  "dateFormat": "YM",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bf4"
+  },
+  "description": "20th July 1924 Founded the ‘Bahishkrit Hitkarini Sabha’ for the uplift of the depressed classes.\nThe aims of the Sabha were educate, agitate, organise.",
+  "title": "Founded the ‘Bahishkrit Hitkarini Sabha’",
+  "date": "20/07/24",
+  "eventdate": "24-07-20",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bf5"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "description": "1925 Published ‘The Evolution of Provincial Finance in British India’ – dissertation on\nthe provincial decentralisation of Imperial Finance in India’.Opened a hostel for\nUntouchable students at Barshi.",
+  "title": "Published ‘The Evolution of Provincial Finance in British India’",
+  "date": "00-00-1925",
+  "eventdate": "1925",
+  "dateFormat": "Y",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bf6"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "description": "1926 Gave evidence before the Royal Commission on Indian Currency (Hilton Young\nCommisssion).Nominated Member of the Bombay Legislative Council.",
+  "title": "Nominated Member of the Bombay Legislative Council.",
+  "date": "00-00-1926",
+  "eventdate": "1926",
+  "dateFormat": "Y",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bf7"
+  },
+  "place": "Mahad",
+  "description": "20th March 1927 Started Satyagraha at Mahad (Dist Kolaba) to secure to the untouchables the\nRight of access to the Chavdar Tank.",
+  "title": "Started Satyagraha at Mahad",
+  "date": "20-03-1927",
+  "eventdate": "1927-03-20",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bf8"
+  },
+  "description": "3rd April 1927 Started a fortnightly Marathi paper Bahiskrit Bharat Dr Ambedkar himself was the\neditor.",
+  "title": "Started a fortnightly Marathi paper Bahiskrit Bharat ",
+  "date": "03-04-1927",
+  "eventdate": "1927-04-03",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bf9"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "description": "September 1927 Established ‘Samaj Samata Sangh’.",
+  "title": "Samaj Samata Sangh",
+  "date": "00-09-1927",
+  "eventdate": "1927-09",
+  "dateFormat": "YM",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bfa"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "description": "26-27 descember 1927 Second Conference in Mahad. Caste Hindus filed a case against him that tank as a private property.",
+  "title": "Second Conference in Mahad.",
+  "date": "26-12-1927",
+  "eventdate": "1927-12-26",
+  "dateFormat": "YMD",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bfb"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "description": "19 March 1928 Introduced the Watan Bill in the Bombay Legislative Council.",
+  "title": "Vatan Bill",
+  "date": "19-03-1928",
+  "eventdate": "1928-03-19",
+  "dateFormat": "YMD",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bfc"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "description": "23 oct 1928 Gave evidence before the Indian Statutory Committee (Simon Commission).",
+  "title": "Simon Commission",
+  "date": "23-10-1928",
+  "eventdate": "1928-10-23",
+  "dateFormat": "YMD",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bfd"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "description": "June 1928 Professor. Government Law College Bombay.Principal. Government Law College Bombay.",
+  "title": "Professor. Government Law College Bombay",
+  "date": "00-06-1928",
+  "eventdate": "1928-06",
+  "dateFormat": "YM",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bfe"
+  },
+  "description": "23rd October 1928 Evidence of Dr. Ambedkar before the Indian Statutory Commission of the Simon Committee.",
+  "title": "Statutory Commission of the Simon Committee.",
+  "date": "23-10-1928",
+  "eventdate": "1928-10-23",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3bff"
+  },
+  "place": "Nashik",
+  "description": "2nd March 1930 Satyagraha at Kalram Temple. Nasik to secure for the Untouchables the right of entry into the temple.",
+  "title": "Satyagraha at Kalram Temple",
+  "date": "02-03-1930",
+  "eventdate": "1930-03-02",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c00"
+  },
+  "profileId": "619fb208ddce84039796ac03",
+  "description": "1930-­32 Delegate. Round Table Conference representing Untouchables of India.",
+  "title": "Round Table Conference",
+  "date": "12-11-1930",
+  "eventdate": "1930-11-12",
+  "dateFormat": "YMD",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c01"
+  },
+  "description": "Signed with Mr. M.K. Gandhi the Poona Pact giving up, to save Gandhi’s life. separate electorates granted to the Depressed Classes by Ramsay MacDonald’s\nCommunal Award, and accepting, instead representation through joint\nElectorates.",
+  "title": "Poona Pact",
+  "date": "00-09-1932",
+  "eventdate": "1932-09",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c02"
+  },
+  "description": "1932-34 Member joint Parliamentary Committee on the Indian Constitutional Reform.",
+  "title": "Member joint Parliamentary Committee",
+  "date": "24-09-1932",
+  "eventdate": "1932-09-24",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c03"
+  },
+  "description": "26th May 1935 Death of wife. Mrs. Ramabai Ambedkar.",
+  "title": "Death of wife. Mrs. Ramabai Ambedkar.",
+  "date": "26-05-1935",
+  "eventImage": "https://drive.google.com/uc?export=view&id=12IWvMj1dZ3-glNykPx_s9-s6PJ4a8E9h",
+  "eventdate": "1935-05-26 00:00:00",
+  "imageId": "12IWvMj1dZ3-glNykPx_s9-s6PJ4a8E9h",
+  "place": "",
+  "updatedAt": {
+    "$date": "2021-10-17T15:35:46.796Z"
+  },
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c04"
+  },
+  "place": "Bombay",
+  "description": "June 1935 Dr. Ambedkar was appointed as Principal of Government Law College, Bombay. He was also appointed Perry Professor of Jurisprudence. Historical Yeola Conversion Conference held under the Presidentship of Dr. Ambedkar at Yeola Dist., Nasik. He exhorted the Depressed Classes to leave",
+  "title": "Dr. Ambedkar was appointed as Principal of Government Law College",
+  "date": "00-06-1935",
+  "eventdate": "1935-06",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c05"
+  },
+  "description": "13th October 1935 Hinduism and embrace another religion. He declared: ‘I was born as a Hindu but I will not die as a Hindu’. He also advisedhisfollowers to abandon the Kalaram Mandi entry Satyagriha, Nasik.",
+  "title": "Leave Hinduism and embrace another religion",
+  "date": "13-10-1935",
+  "eventdate": "1935-10-13",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c06"
+  },
+  "place": "Lahore",
+  "description": "December 1935 Dr. Ambedkar was invited by the Jat Pat Todak Mandal of Lahore to preside over the Conference. Dr.Ambedkar prepared his historical speech. The Annihilation of Caste’. The conference was cancelled by the Mandal on the ground that Dr.Ambedkar’s thoughts were revolutionary. Finally, Dr. Ambedkar refused to preside and published his speech in book form in 1937.",
+  "title": "Jat Pat Todak Mandal of Lahore",
+  "eventdate": "--",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c07"
+  },
+  "place": "Pune",
+  "description": "12­-13th January 1936 The Depressed Classes Conference was held at Pune.Dr. Ambedkar reiterated his resolve of the Yeola Conference to leave Hinduism. The conference was presided over by Rav Bahadur N. Shina Raj.",
+  "title": "The Depressed Classes Conference was held at Pune.",
+  "date": "12-01-1936",
+  "eventdate": "1936-01-12",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c08"
+  },
+  "description": "29th Febraury 1936 Dr. Ambedkar’s Conversion Resolution was supported by the Chambars (Cobblers) of East Khandesh.",
+  "title": "Dr Ambedkar’s Conversion Resolution was supported by the Chambars (Cobblers) of East Khandesh.",
+  "date": "29-02-1936",
+  "eventdate": "1936-02-29",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c09"
+  },
+  "place": "Bombay",
+  "description": "30th May 1936 Bombay Presidency Conversion Conference (Mumbai Elaka Mahar Panshad) of Mahars was held at Naigaum (Dadar) to sound their opinion on the issue of Conversion. Mr. Subha Rao, popularly known as Hydrabadi Ambedkar, presided over the Conference. In the morning the Ascetics shaved their beards,moustaches and destroyed their symbols of Hinduism in an Ascetic’s Conference.",
+  "title": "Bombay Presidency Conversion Conference",
+  "date": "30-05-1936",
+  "eventImage": "https://drive.google.com/uc?export=view&id=1QWlnBldq_m1uykgt79nolORic4hErbvT",
+  "eventdate": "1936-05-30 00:00:00",
+  "imageId": "1QWlnBldq_m1uykgt79nolORic4hErbvT",
+  "updatedAt": {
+    "$date": "2021-10-17T15:48:10.255Z"
+  },
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c0a"
+  },
+  "place": "Bombay",
+  "description": "15th June 1936 Conference of Devadasis was held m Bombay to support Dr. Ambedkar’s Resolution of Conversion.",
+  "title": "Conference of Devadasis",
+  "date": "15-06-1936",
+  "eventImage": "https://drive.google.com/uc?export=view&id=14qdrJ7ZO1V_-8DFQj7eNSKjZTmbOAnlc",
+  "eventdate": "1936-06-15 00:00:00",
+  "imageId": "14qdrJ7ZO1V_-8DFQj7eNSKjZTmbOAnlc",
+  "updatedAt": {
+    "$date": "2021-10-17T16:03:56.883Z"
+  },
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c0b"
+  },
+  "description": "18th June 1936 Dr. Ambedkar­Dr. Moonje talks on conversion. Pro Sikkhism.",
+  "title": "Dr. Ambedkar ­Dr. Moonje talks on conversion",
+  "date": "18-06-1936",
+  "eventdate": "1936-06-18",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c0c"
+  },
+  "description": "23rd June 1936 Matang Parishad in support of Conversion.",
+  "title": "Matang Parishad in support of Conversion.",
+  "date": "23-06-1936",
+  "eventdate": "1936-06-23",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c0d"
+  },
+  "description": "he Independent Labour Party (ILP) was a political Organisation formed under the leadership of B. R. Ambedkar on 15 August 1936. It opposed the brahmanical and capitalist structures in India, supported the Indian working class and sought to dismantle the caste system.T",
+  "title": "Founded the Independent Labour Party",
+  "date": "15-08-1936",
+  "eventdate": "1936-08-15",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c0e"
+  },
+  "description": "1936 Dr.Ambedkar sent a delegation of 13 members to the Golden Temple Amritsar to study Sikkhism.",
+  "title": "Sent a delegation of 13 members to the Golden Temple Amritsar",
+  "date": "18-09-1936",
+  "eventdate": "1936-09-18",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c0f"
+  },
+  "place": "London",
+  "description": "11th November 1936 Dr.Ambedkar left for Geneva and London.",
+  "title": "Dr.Ambedkar left for Geneva",
+  "date": "11-11-1936",
+  "eventdate": "1936-11-11",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c10"
+  },
+  "place": "Bombay",
+  "description": "1937 Dr.Ambedkar organised the ‘Municipal Workers’ Union’ Bombay in 1937.",
+  "title": "Dr.Ambedkar organised the ‘Municipal Workers’ Union’ Bombay",
+  "date": "00-00-1937",
+  "eventdate": "1937",
+  "dateFormat": "Y",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c11"
+  },
+  "place": "Bombay",
+  "description": "Dr. Ambedkar returned to Bombay.",
+  "title": "Dr. Ambedkar returned to Bombay.",
+  "date": "14-01-1937",
+  "eventdate": "1937-01-14",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c12"
+  },
+  "description": "The First General Elections were held under the Govt. of India Act of 1935. Dr.\nAmbedkar was elected Member of Bombay Legislative Assembly (Total Seats 175.\nReserved Seats 15. Dr. Ambedkar’s Independent Labour Party won 17 seats.)",
+  "title": "The First General Elections were held under the Govt. of India",
+  "date": "17-02-1937",
+  "eventdate": "1937-02-17",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c13"
+  },
+  "description": "The Mahad Chowdar Tank case was decided in favour of D.C. by which they got a\nlegal right to use the public wells and tanks.",
+  "title": "The Mahad Chowdar Tank case was decided in favour of D.C. by which they got a\nlegal right to use the public wells and tanks.",
+  "date": "17-03-1937",
+  "eventdate": "1937-03-17",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c14"
+  },
+  "description": "Dr. Ambedkar received a grand reception at Chalisgaon Railway station.",
+  "title": "Dr. Ambedkar received a grand reception at Chalisgaon Railway station.",
+  "date": "30-07-1937",
+  "eventdate": "1937-07-30",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c15"
+  },
+  "description": "Dr. Ambedkar introduced his Bill to abolish the Mahar Watan in the Assembly",
+  "title": "Dr. Ambedkar introduced his Bill to abolish the Mahar Watan in the Assembly",
+  "date": "17-09-1937",
+  "eventdate": "1937-09-17",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c16"
+  },
+  "description": "Reception at Pandhapur on the way to Solapur, where he was going to preside\nover the Solapur District D.C’. Conference.",
+  "title": "Reception at Pandhapur ",
+  "date": "31-12-1937",
+  "eventdate": "1937-12-31",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1,
+  "place": "Pandhapur",
+  "updatedAt": {
+    "$date": "2021-12-31T18:09:05.265Z"
+  },
+  "eventImage": "https://drive.google.com/uc?export=view&id=undefined",
+  "imageId": null
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c17"
+  },
+  "description": "Reception given by the Solapur Municipal Council.",
+  "title": "Reception given by the Solapur Municipal Council.",
+  "date": "04-01-1938",
+  "eventdate": "1938-01-04",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c18"
+  },
+  "description": "The Congress Party introduced a Bill making a change in the name of\nUntouchables. i.e. they would be called Harijans meaning sons of God. Dr.\nAmbedkar criticised the Bill. as in his opinion the change of name would make no\nreal change in their conditions. Dr. Ambedkar and Bhaurav Gaikwad protested\nagainst the use of the term Harijans in legal matters. When the ruling party by\nsheer force of numbers defeated the I.L.P., the Labour­Party group walked out of\nthe Assembly in protest under the leadership of Dr. Ambedkar. He organised\npeasants march on Bombay Assembly. The peasants demanded the passing of\nDr. Ambedkar’s Bill for abolition of the Khoti system.",
+  "title": "The Congress Party introduced a Bill making a change in the name of\nUntouchables. ",
+  "date": "00-01-1938",
+  "eventdate": "1938-01",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c19"
+  },
+  "description": "Dr. Ambedkar addressed a Peasants’ Conference at Ahmedabad.",
+  "title": "Dr. Ambedkar addressed a Peasants’ Conference at Ahmedabad.",
+  "date": "23-01-1938",
+  "eventdate": "1938-01-23",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c1a"
+  },
+  "description": "12­-13th Febraury\n1938 Dr. Ambedkar addressed a historical Conference of Railway workers at Manmad\n(Dist. Nasik).",
+  "title": "Dr. Ambedkar addressed a historical Conference of Railway workers at Manmad\n(Dist. Nasik).",
+  "date": "12-02-1938",
+  "eventdate": "1938-02-12",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c1c"
+  },
+  "description": "Dr. Ambedkar resigned from the Principal­ship of the Government Law College,\nBombay.",
+  "title": "Dr. Ambedkar resigned from the Principal­ship of the Government Law College,\nBombay.",
+  "date": "00-05-1938",
+  "eventdate": "1938-05",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c1d"
+  },
+  "description": "12 - ­13th May 1938 Dr. Ambedkar went on tour of Konkan Region. He also went to Nagpur in\nconnection with a court case.",
+  "title": "Dr. Ambedkar went on tour of Konkan Region. He also went to Nagpur in\nconnection with a court case.",
+  "date": "12-05-1938",
+  "eventdate": "1938-05-12",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c1e"
+  },
+  "description": "A meeting was held at R.M. Bhat High School, Bombay for exposing Gandhiji’s\nattitude in disallowing a D.C. man being taken into the Central Ministry.",
+  "title": "A meeting was held at R.M. Bhat High School",
+  "date": "00-10-1938",
+  "eventdate": "1938-10",
+  "dateFormat": "YM",
+  "place": "Bombay, MH, India",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 0
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c1f"
+  },
+  "description": "Dr. Ambedkar spoke on the Industrial Disputes Bill in the Bombay Assembly. He\nbitterly opposed it for its attempt to outlaw the right of workers to strike. He said:\nIf Congressmen believe that Swaraj is their birth­right, then the right to strike is\nthe birth­right of workers.",
+  "title": "Industrial Disputes Bill",
+  "date": "00-09-1938",
+  "eventdate": "1938-09",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c20"
+  },
+  "description": "Dr. Ambedkar addressed a large gathering at Bawala, near Ahmedabad. On\nreturn he addressed another meeting at Premabhai Hall, Ahmedabad.",
+  "title": "r. Ambedkar addressed a large gathering at Bawala, near Ahmedabad",
+  "date": "01-10-1938",
+  "eventdate": "1938-10-01",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c21"
+  },
+  "description": "The Industrial Workers strike. The procession (under the leadership of Dr.\nAmbedkar, Nirnkar, Dange, Pasulkar etc) was organised from Kamgar Maidan to\nJambori Maidan, Worli. Dr.Ambedkar toured the workers areas with Jamvadas\nMehta.",
+  "title": "The Industrial Workers strike.",
+  "date": "06-11-1938",
+  "eventdate": "1938-11-06",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c22"
+  },
+  "description": "Dr. Ambedkar moved a Resolution for adoption of the methods for birth­control in\nthe Bombay Assembly.",
+  "title": "Dr. Ambedkar moved a Resolution for adoption of the methods for birth­control in\nthe Bombay Assembly.",
+  "date": "10-11-1938",
+  "eventdate": "1938-11-10",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c23"
+  },
+  "description": "December 1938 Dr. Ambedkar addressed the first D.C. Conference in Nizam’s dominion at Mahad",
+  "title": "Dr. Ambedkar addressed the first D.C. Conference in Nizam’s dominion at Mahad",
+  "date": "00-12-1938",
+  "eventdate": "1938-12",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c24"
+  },
+  "description": "Dr. Ambedkar addressed a large gathering at Rajkot",
+  "title": "Dr. Ambedkar addressed a large gathering at Rajkot",
+  "date": "18-01-1939",
+  "eventdate": "1939-01-18",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c25"
+  },
+  "description": "Dr. Ambedkar­ Gandhi talks.",
+  "title": "Dr. Ambedkar­ Gandhi talks.",
+  "date": "19-01-1939",
+  "eventdate": "1939-01-19",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c26"
+  },
+  "place": "Poona",
+  "description": "Kale Memorial Lecture of Gorkhale School of Politics and Economics, Poona\nreviewing critically the All India Federation Scheme set out in the Govt. of India\n29th January 1939\nAct of 1935. The speech was issued in March 1939 as a tract for the times under\nthe title ‘Federation v/s Freedom’.",
+  "title": "Kale Memorial Lecture of Gorkhale School of Politics and Economics,",
+  "date": "29-01-1939",
+  "eventdate": "1939-01-29",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c27"
+  },
+  "description": "Dr. Ambedkar addressed a meeting organised for Rohidas Vidya Committee.",
+  "title": "Dr. Ambedkar addressed a meeting organised for Rohidas Vidya Committee.",
+  "date": "00-07-1939",
+  "eventdate": "1939-07",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c28"
+  },
+  "description": "Dr.Ambedkar­Nehru first meeting.",
+  "title": "Dr.Ambedkar­Nehru first meeting.",
+  "date": "00-10-1939",
+  "eventdate": "1939-10",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c29"
+  },
+  "description": "The Conference at Haregaon was held under the Presidentship of Dr.Ambedkar\nto voice the grievances of Mahar and Mahar Watandass",
+  "title": "The Conference at Haregaon was held under the Presidentship of Dr.Ambedkar00-12-1939\nto voice the grievances of Mahar and Mahar Watandass",
+  "eventdate": "--",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c2a"
+  },
+  "description": "Dr. Ambedkar founded the ‘Mahar Panchayat’.",
+  "title": "Dr. Ambedkar founded the ‘Mahar Panchayat’.",
+  "date": "00-05-1940",
+  "eventdate": "1940-05",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c2b"
+  },
+  "description": "Netaji Subash Chandra Bose met Dr. Ambedkar in Bombay.",
+  "title": "Netaji Subash Chandra Bose met Dr. Ambedkar in Bombay.",
+  "date": "22-07-1940",
+  "eventdate": "1940-07-22",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c2c"
+  },
+  "description": "Dr. Ambedkar published his Thoughts on Pakistan. The second edition with the\ntitle Pakistan or Partition of Indiawas issued in February 1945. A third impression\nof the book was published in 1946 under the title India’s Political What’s\nWhat: Pakistan or Partition of India.",
+  "title": "Dr. Ambedkar published his Thoughts on Pakistan.",
+  "date": "00-12-1940",
+  "eventdate": "1940-12",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c2d"
+  },
+  "description": "Dr.Ambedkar pursued the issue of recruitment of Mahars in the Army. In result\nthe Mahars Battallion was formed",
+  "title": "Dr.Ambedkar pursued the issue of recruitment of Mahars in the Army. In result\nthe Mahars Battallion was formed",
+  "date": "00-01-1941",
+  "eventdate": "1941-01",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c2e"
+  },
+  "description": "Mahar Dynast Panchayat Samiti was Formed by Dr. Ambedkar.",
+  "title": "Mahar Dynast Panchayat Samiti was Formed by Dr. Ambedkar.",
+  "date": "25-05-1941",
+  "eventdate": "1941-05-25",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c2f"
+  },
+  "description": "Dr.Ambedkar was appointed to sit on the Defence Advisory Committee.",
+  "title": "Dr.Ambedkar was appointed to sit on the Defence Advisory Committee.",
+  "date": "00-07-1941",
+  "eventdate": "1941-07",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c30"
+  },
+  "description": "The Conference was held at Sinnar in protest of tax on Mahar Watams.\nDr.Ambedkar launched a no­tax campaign. He saw the Governor. Finally, the tax\nwas abolished. The Mumbai Elaka Conference of Mahars, Mangs and Derdasis\nwere organised under the Chairmanship of Dr.Ambedkar",
+  "title": "The Conference was held at Sinnar in protest of tax on Mahar Watams.\n",
+  "date": "00-10-1941",
+  "eventdate": "1941-10",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c31"
+  },
+  "description": "Dr. Ambedkar founded the All India Scheduled Castes Federation in Nagpur.",
+  "title": "Dr. Ambedkar founded the All India Scheduled Castes Federation in Nagpur.",
+  "date": "00-04-1941",
+  "eventdate": "1941-04",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c32"
+  },
+  "place": "Nagpur",
+  "description": "Dr. Ambedkar addressed All India D.C. Conference at Nagpur.",
+  "title": "Dr. Ambedkar addressed All India D.C. Conference at Nagpur.",
+  "date": "18-07-1942",
+  "eventdate": "1942-07-18",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c33"
+  },
+  "description": "Dr.Ambedkar joined the Viceroy’s Executive Council as a Labour Member",
+  "title": "Dr.Ambedkar joined the Viceroy’s Executive Council as a Labour Member",
+  "date": "20-07-1942",
+  "eventdate": "1942-07-20",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c34"
+  },
+  "description": "Dr. Ambedkar submitted a paper on “The problems of the Untouchables in India”\nto the Institute of Pacific Relations at its Conference held in Canada. The paper is\nprinted in the proceedings of the Conference. The paper was subsequently\npublished in December 1943 in the book form under the title Mr Gandhi and\nEmancipation of the Untouchables.",
+  "title": "The problems of the Untouchables in India",
+  "date": "00-12-1942",
+  "eventdate": "1942-12",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c35"
+  },
+  "description": "Dr. Ambedkar delivered a Presidential address on the occasion of the 101st Birth Anniversary of Justice Mahader Govind Ranade. It is published in book form in April 1943 under the titleRanade. Gandhi and Jinnah.",
+  "title": "Dr. Ambedkar delivered a Presidential address ",
+  "date": "19-01-1943",
+  "eventdate": "1943-01-19",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c36"
+  },
+  "description": " Dr. Ambedkar founded “The Building Trust and the Scheduled Caste Improvement Trust”.",
+  "title": "The Building Trust",
+  "date": "00-00-1944",
+  "eventdate": "1944",
+  "dateFormat": "Y",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c37"
+  },
+  "description": "Dr.Ambedkar addressed the Annual Conference of the All India S.C. Federation at Parel (Bombay) The speech was later published under the title “The Communal Deadlock and a way to solve it.",
+  "title": "Annual Conference of the All India S.C. Federation",
+  "date": "06-05-1944",
+  "eventImage": "https://drive.google.com/uc?export=view&id=1Mbf8MmWE_3FbkGTU6UOVdYex0Y3SBA12",
+  "eventdate": "1944-06-05 00:00:00",
+  "imageId": "1Mbf8MmWE_3FbkGTU6UOVdYex0Y3SBA12",
+  "place": "Bombay",
+  "updatedAt": {
+    "$date": "2021-10-17T11:26:42.302Z"
+  },
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c38"
+  },
+  "description": " Dr.Ambedkar published his book What Congress and Gandhi have done to the Untouchables – a complete compendium of information regarding the movement of the Untouchables for political safeguards. Dr.Ambedkar attended the Simla Conference.",
+  "title": "What Congress and Gandhi have done",
+  "date": "00-06-1944",
+  "eventdate": "1944-06",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c39"
+  },
+  "place": "Bombay",
+  "description": " Dr Ambedkar founded ‘People’s Education Society’ in Bombay.",
+  "title": "People’s Education Society",
+  "date": "00-07-1944",
+  "eventdate": "1944-07",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c3a"
+  },
+  "place": "Bombay",
+  "description": "Opening of Siddharth College of Arts and Science in Bombay",
+  "title": "Opening of Siddharth College of Arts and Science in Bombay",
+  "date": "00-04-1946",
+  "eventdate": "1946-04",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c3b"
+  },
+  "description": "The Bharat Bhushan Printing Press (founded by Dr Ambedkar) was burnt down in the clashes between D.C. and the Caste­Hindus",
+  "title": "The Bharat Bhushan Printing Press (founded by Dr Ambedkar) was burnt down",
+  "date": "00-05-1946",
+  "eventdate": "1946-05",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c3c"
+  },
+  "description": "Siddharth College started.",
+  "title": " Siddharth College started",
+  "date": "20-06-1946",
+  "eventImage": "https://drive.google.com/uc?export=view&id=1GuO5MxRrHz6qS_kRGC8Xjd8vS1NfNnIt",
+  "eventdate": "1946-06-20 00:00:00",
+  "imageId": "1GuO5MxRrHz6qS_kRGC8Xjd8vS1NfNnIt",
+  "place": "Mumbai",
+  "updatedAt": {
+    "$date": "2021-12-22T17:45:42.202Z"
+  },
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c3d"
+  },
+  "description": " Dr Ambedkar went to London to urge before the British Government and the Opposition Party the need to provide safeguards for the D.C., on grant of Independence to India and thus to rectify the wrongs done to the D.C. by the Cabinet Mission.",
+  "title": " Dr Ambedkar went to London",
+  "date": "00-09-1946",
+  "updatedAt": {
+    "$date": "2021-12-24T20:23:36.815Z"
+  },
+  "place": "London",
+  "eventdate": "1946-09",
+  "eventImage": "https://drive.google.com/uc?export=view&id=1F4hKwrbKOP5Ag0l9I0PVqOpkqLn_2ZTI",
+  "imageId": "1F4hKwrbKOP5Ag0l9I0PVqOpkqLn_2ZTI",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c3e"
+  },
+  "description": "Dr Ambedkar published his book. Who were Shudras? An enquiry into how the Shudras came to be the fourth Varna in the Indo­Aryan Society.Dr Ambedkar was\nelected Member of the Constitution Assembly of India.",
+  "title": " Who were Shudras? ",
+  "date": "13-10-1946",
+  "eventImage": "https://drive.google.com/uc?export=view&id=1Y7BqQMHw2e4YITbCYbIuiLUPjy2jX5-g",
+  "eventdate": "Invalid date",
+  "imageId": "1Y7BqQMHw2e4YITbCYbIuiLUPjy2jX5-g",
+  "place": "undefined",
+  "updatedAt": {
+    "$date": "2021-10-17T11:06:52.957Z"
+  },
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c3f"
+  },
+  "description": "Dr Ambedkar’s First speech in the Constituent Assembly. He called for a ‘strong\nand United India’.",
+  "title": "Dr Ambedkar’s First speech in the Constituent Assembly. He called for a ‘strong\nand United India’.",
+  "date": "00-11-1946",
+  "eventdate": "1946-11",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c40"
+  },
+  "description": "Published ‘States and Minorities’. A memorandum of Fundamental Rights, Minority\nRights, safeguards for the D.C. and on the problems of Indian states",
+  "title": "Published ‘States and Minorities’.",
+  "date": "00-03-1947",
+  "eventdate": "1947-03",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c41"
+  },
+  "description": "Article 17 of the Constitution of India for the abolition of Untouchability was\nmoved by Sardar Vallabhbhai Patel in the Constituent Assembly and it was\nPassed.",
+  "title": "Article 17",
+  "date": "29-04-1947",
+  "eventImage": "https://drive.google.com/uc?export=view&id=1xP2BoiB0oHOZi3TXAczhsUKY67b_1EiW",
+  "eventdate": "1947-04-29 00:00:00",
+  "imageId": "1xP2BoiB0oHOZi3TXAczhsUKY67b_1EiW",
+  "place": "Delhi",
+  "updatedAt": {
+    "$date": "2021-10-17T15:50:40.648Z"
+  },
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c42"
+  },
+  "description": "India obtained her Independence. Dr Ambedkar was elected to the Constituent\nAssembly by the Bombay Legislature Congress Party. Dr Ambedkar joined\nNehru’s Cabinet. He became the First Law Minister of Independent India. The\nConstituent Assembly appointed him to the drafting Committee, which elected him\nas a Chairman on 29th August 1947.",
+  "title": "India obtained her Independence.",
+  "date": "15-08-1947",
+  "eventdate": "1947-08-15",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c43"
+  },
+  "description": "Dr Ambedkar completed the Draft Constitution of Indian Republic.",
+  "title": "Dr Ambedkar completed the Draft Constitution of Indian Republic.",
+  "date": "00-02-1948",
+  "eventdate": "1948-02",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c44"
+  },
+  "description": "Second marriage – Dr Ambedkar married Dr Sharda Kabir in Delhi.",
+  "title": "Second marriage – Dr Ambedkar married Dr Sharda Kabir in Delhi.",
+  "date": "15-04-1948",
+  "eventdate": "1948-04-15",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c45"
+  },
+  "description": "Published his book The Untouchables. A thesis on the origin of Untouchability. Dr\nAmbedkar submitted his Memorandum, “Maharashtra as a linguistic Province” to\nthe Dhar Commission. The Linguistic Provinces Commission).",
+  "title": "Published his book The Untouchables.",
+  "date": "00-10-1948",
+  "eventdate": "1948-10",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c46"
+  },
+  "description": "Dr.Ambedkar presented the Draft Constitution to Constituent Assembly.",
+  "title": "Dr.Ambedkar presented the Draft Constitution to Constituent Assembly.",
+  "date": "04-10-1948",
+  "eventdate": "1948-10-04",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c47"
+  },
+  "description": "The Constituent Assembly adopted Article 17 of the Constitution for the abolition\nof Untouchability.",
+  "title": "The Constituent Assembly adopted Article 17 of the Constitution for the abolition\nof Untouchability.",
+  "date": "20-11-1948",
+  "eventdate": "1948-11-20",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c48"
+  },
+  "description": "Dr Ambedkar, Law Minister of India visited Hydrabad (Deccan)",
+  "title": "Dr Ambedkar, Law Minister of India visited Hydrabad (Deccan)",
+  "date": "00-01-1949",
+  "eventdate": "1949-01",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c49"
+  },
+  "description": "Dr Ambedkar was presented with a Purse at Manmad by his admirers. He\naddressed a large gathering.",
+  "title": "Dr Ambedkar was presented with a Purse at Manmad by his admirers. He\naddressed a large gathering.",
+  "date": "15-01-1949",
+  "eventdate": "1949-01-15",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c4a"
+  },
+  "description": "He stayed at Aurangabad in connection with his opening proposed College.\nDuring the stay he visited Ajanta – Ellora Caves",
+  "title": "He stayed at Aurangabad in connection with his opening proposed College.\nDuring the stay he visited Ajanta – Ellora Caves",
+  "date": "21-01-1949",
+  "eventdate": "1949-01-21",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c4b"
+  },
+  "description": "March-­May 1949 Dr Ambedkar visited Bombay in connection with College work and for a medical\ncheck­up.",
+  "title": "Dr Ambedkar visited Bombay in connection with College work and for a medical\ncheck­up.",
+  "date": "00-03-1949",
+  "eventdate": "1949-03",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c4c"
+  },
+  "description": "Dr Ambedkar addressed the Siddharth College Parliament on the Hindu Code Bill.\nIn the evening he was presented with a silver casket containing a copy of the\nIndian Constitution at Nare Park Maidan, Bombay.",
+  "title": "Dr Ambedkar addressed the Siddharth College Parliament",
+  "date": "11-01-1950",
+  "eventdate": "1950-01-11",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1,
+  "place": "Mumbai, Maharashtra, India",
+  "updatedAt": {
+    "$date": "2021-12-31T17:46:44.843Z"
+  }
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c4d"
+  },
+  "place": "Delhi",
+  "description": "Dr Ambedkar’s article The Buddha and the Future His Religion’ was published in\nthe journal of Mahabodhi Society, Calcutta. Dr.Ambedkar addressed the Young\nMen’s Buddhist Association on “The Rise and Fall of Hindu Women”. Dr Ambedkar\nspoke on the “Merits of Buddhism” at the meeting arranged on the occasion of\nBuddha Jayanti in Delhi.",
+  "title": "Dr Ambedkar’s article The Buddha and the Future His Religion’",
+  "date": "00-05-1950",
+  "eventdate": "1950-05",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c4e"
+  },
+  "place": "Aurangabad",
+  "description": "Dr Rajendra Prasad, the First President of the Indian Republic laid the foundation\nstone of Milind Maharidyalaya, Aurangabad. Dr.Ambedkar delivered a speech on\nthe occasion (The printed speech is available with Mr Surwade)",
+  "title": "Dr Rajendra Prasad, the First President of the Indian Republic laid the foundation\nstone of Milind Maharidyalaya, ",
+  "date": "01-09-1950",
+  "eventdate": "1950-09-01",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c4f"
+  },
+  "place": "Colombo",
+  "description": "Dr Ambedkar went to Colombo as a Delegate to the World Buddhist Conference.",
+  "title": "Dr Ambedkar went to Colombo as a Delegate to the World Buddhist Conference.",
+  "date": "00-12-1950",
+  "eventdate": "1950-12",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c50"
+  },
+  "place": "Delhi",
+  "description": "Dr.Ambedkar, Law Minister introduced his “Hindu Code Bill” in the Parliament.",
+  "title": "Dr.Ambedkar, Law Minister introduced his “Hindu Code Bill” in the Parliament.",
+  "date": "05-02-1951",
+  "eventdate": "1951-02-05",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c51"
+  },
+  "place": "Delhi",
+  "description": "Dr Ambedkar laid the foundation stone of “Dr Ambedkar Bhavan”. Delhi.",
+  "title": "Dr Ambedkar laid the foundation stone of “Dr Ambedkar Bhavan”. Delhi.",
+  "date": "15-04-1951",
+  "eventdate": "1951-04-15",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c52"
+  },
+  "description": "Dr Ambedkar founded “The Bhartiya Buddha Jansangh”.",
+  "title": "Dr Ambedkar founded “The Bhartiya Buddha Jansangh”.",
+  "date": "00-07-1951",
+  "eventImage": "https://drive.google.com/uc?export=view&id=1m1kLIFdbscta0o_ijEpWfxws4ISE8QDt",
+  "eventdate": "1951-07",
+  "imageId": "1m1kLIFdbscta0o_ijEpWfxws4ISE8QDt",
+  "place": "undefined",
+  "updatedAt": {
+    "$date": "2021-10-17T16:12:20.244Z"
+  },
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c53"
+  },
+  "description": "Dr Ambedkar compiled a Buddhist prayer book Buddha Upasana Palha",
+  "title": "Dr Ambedkar compiled a Buddhist prayer book Buddha Upasana Palha",
+  "date": "00-09-1951",
+  "eventdate": "1951-09",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c54"
+  },
+  "description": "Dr Ambedkar resigned from the Nehru Cabinet because, among other reasons,\nthe withdrawal of Cabinet support to the Hindu Code Bill in spite of the earlier\ndeclaration in the Parliament by the Prime Minister Pt Jawaharlal Nehru, that his\nGovernment would stand or fall with the Hindu Code Bill. Apart from this Nehru\nannounced that he will sink or swim with the Hindu Code Bill.Dr Ambedkar\npublished his speech in book form under the title The Rise and Fall of Hindu\nWomen.",
+  "title": "Dr Ambedkar resigned from the Nehru Cabinet ",
+  "date": "09-09-1951",
+  "eventdate": "1951-09-09",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c55"
+  },
+  "description": "The marriage and divorce Bill was discussed in the Parliament.",
+  "title": "The marriage and divorce Bill was discussed in the Parliament.",
+  "date": "19-09-1951",
+  "eventdate": "1951-09-19",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c56"
+  },
+  "description": "Dr Ambedkar left the Cabinet.",
+  "title": "Dr Ambedkar left the Cabinet.",
+  "date": "11-10-1951",
+  "eventdate": "1951-10-11",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c57"
+  },
+  "description": "Dr Ambedkar was defeated in the First Lok Sabha elections held under the\nConstitution of Indian Republic. Congress candidate N. S. Kajrolkar defeated Dr\nAmbedkar.",
+  "title": "Dr Ambedkar was defeated in the First Lok Sabha",
+  "date": "00-01-1952",
+  "eventdate": "1952-01",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c58"
+  },
+  "place": "Bombay",
+  "description": "Dr Ambedkar was introduced into Parliament as a member of the Council (Rajya\nSabha) of States, representing Bombay.",
+  "title": "Dr Ambedkar was introduced into Parliament as a member of the Council (Rajya\nSabha) of States",
+  "date": "00-03-1952",
+  "eventdate": "1952-03",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c59"
+  },
+  "description": "Dr Ambedkar left for New York from Bombay.",
+  "title": "Dr Ambedkar left for New York from Bombay.",
+  "date": "01-06-1952",
+  "eventdate": "1952-06-01",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c5a"
+  },
+  "description": "Columbia University (USA) conferred the honorary Degree of LL.D., in its Bi­\nCentennial Celebrations Special Convocation held in New York.",
+  "title": "Columbia University (USA) conferred the honorary Degree of LL.D., in its Bi­\nCentennial Celebrations Special Convocation held in New York.",
+  "date": "05-06-1952",
+  "eventImage": "https://drive.google.com/uc?export=view&id=1EMYqVC8Msl7fPNqC17ciTYLSEawi37TT",
+  "eventdate": "1952-06-05 00:00:00",
+  "imageId": "1EMYqVC8Msl7fPNqC17ciTYLSEawi37TT",
+  "place": "USA",
+  "updatedAt": {
+    "$date": "2021-10-17T16:20:17.421Z"
+  },
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c5b"
+  },
+  "description": "Dr Ambedkar returned to Bombay.",
+  "title": "Dr Ambedkar returned to Bombay.",
+  "date": "16-06-1952",
+  "eventdate": "1952-06-16",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1,
+  "place": "Mumbai, Maharashtra, India",
+  "updatedAt": {
+    "$date": "2021-12-31T18:14:01.241Z"
+  }
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c5c"
+  },
+  "description": "Dr Ambedkar addressed Annual Social Gathering of Elphinstone College, Bombay",
+  "title": "Dr Ambedkar addressed Annual Social Gathering of Elphinstone College, Bombay",
+  "date": "16-12-1952",
+  "eventdate": "1952-12-16",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c5d"
+  },
+  "description": "Dr Ambedkar delivered a talk on “Conditions Precedent to the Successful working\nof Democracy” at the Bar Council, Pune",
+  "title": "Dr Ambedkar delivered a talk on “Conditions Precedent to the Successful working\nof Democracy” at the Bar Council, Pune",
+  "date": "22-12-1952",
+  "eventdate": "1952-12-22",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c5e"
+  },
+  "description": "The Osmania University conferred the honorary Degree of LL.D on Dr Ambedkar.",
+  "title": "The Osmania University conferred the honorary Degree of LL.D on Dr Ambedkar.",
+  "date": "12-01-1953",
+  "eventdate": "1953-01-12",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c5f"
+  },
+  "description": "The Untouchability (offences) Bill was introduced in the Parliament by the Nehru\nGovernment.",
+  "title": "The Untouchability (offences) Bill was introduced in the Parliament by the Nehru\nGovernment.",
+  "date": "00-03-1953",
+  "eventdate": "1953-03",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c60"
+  },
+  "place": "Bhandara",
+  "description": "Dr Ambedkar contested the By­Election for Lok Sabha from Bhandara\nConstituency of Vidarbha Region but was defeated Congress Candidate Mr\nBorkar.",
+  "title": "Dr Ambedkar contested the By­Election for Lok Sabha",
+  "date": "00-04-1953",
+  "eventdate": "1953-04",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c61"
+  },
+  "place": "Bombay",
+  "description": "Opening of Siddharth College of Commerce and Economics in Bombay.",
+  "title": "Opening of Siddharth College of Commerce and Economics in Bombay.",
+  "date": "00-05-1953",
+  "eventdate": "1953-05",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c62"
+  },
+  "description": "Dr Ambedkar inaugurated the All India Conference of Sai devotees at the St.\nX’avier’s Maidan Parel Bombay (His inaugural speech is available with Mr\nSurwade)",
+  "title": "Dr Ambedkar inaugurated the All India Conference",
+  "date": "00-12-1953",
+  "eventdate": "1953-12",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1,
+  "place": "Mumbai, Maharashtra, India",
+  "updatedAt": {
+    "$date": "2021-12-31T18:11:01.231Z"
+  }
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c63"
+  },
+  "description": "Dr Ambedkar visited Rangoon to attend the function arranged on the occasion of\nBuddha Jayanti.",
+  "title": "Dr Ambedkar visited Rangoon to attend the function arranged on the occasion of\nBuddha Jayanti.",
+  "date": "00-05-1954",
+  "eventdate": "1954-05",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c64"
+  },
+  "description": "The Maharaja of Mysore donated 5 acres of land for Dr Ambedkar’s proposed\nBuddhist Seminary to be started at Bangalore",
+  "title": "The Maharaja of Mysore donated 5 acres of land for Dr Ambedkar’s proposed\nBuddhist Seminary to be started at Bangalore",
+  "date": "00-06-1954",
+  "eventdate": "1954-06",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c65"
+  },
+  "description": "Dr Ambedkar spoke on the Untouchability (Offences) Bill in the Rajya Sabha",
+  "title": "Dr Ambedkar spoke on the Untouchability (Offences) Bill in the Rajya Sabha",
+  "date": "16-09-1954",
+  "eventdate": "1954-09-16",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c66"
+  },
+  "description": "Dr. Ambedkar broadcast his talk “My Personal Philosophy”",
+  "title": "Dr. Ambedkar broadcast his talk “My Personal Philosophy”",
+  "date": "03-10-1954",
+  "eventdate": "1954-10-03",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c67"
+  },
+  "description": "Shri R. D. Bhandare, President of Bombay Pradesh S.C. Federation presented a purse of Rs 118,000 on behalf of S.C.F. to Dr Ambedkar at Purandare Stadium,\nNaigaum (Bombay)",
+  "title": "Shri R. D. Bhandare, President of Bombay Pradesh S.C.",
+  "date": "29-10-1954",
+  "eventdate": "1954-10-29",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c68"
+  },
+  "description": "Dr Ambedkar participated as delegate to the 3rd World Buddhist Conference at\nRangoon.",
+  "title": "Dr Ambedkar participated as delegate to the 3rd World Buddhist Conference at\nRangoon.",
+  "date": "00-12-1954",
+  "eventdate": "1954-12",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c69"
+  },
+  "description": "Delivered a speech “Why Religion is necessary”.",
+  "title": "Delivered a speech “Why Religion is necessary”.",
+  "date": "03-04-1955",
+  "eventdate": "1955-04-03",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c6a"
+  },
+  "description": "Dr Ambedkar established Bhartiya Bauddha Mahasabha (The Buddhist Society of\nIndia).",
+  "title": "Dr Ambedkar established Bhartiya Bauddha Mahasabha (The Buddhist Society of\nIndia).",
+  "date": "00-05-1955",
+  "eventdate": "1955-05",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c6b"
+  },
+  "description": "Founded ‘Murnbai Rajya KanishthaGarkamgart Association’",
+  "title": "Founded ‘Murnbai Rajya KanishthaGarkamgart Association’",
+  "date": "00-08-1955",
+  "eventdate": "1955-08",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c6c"
+  },
+  "description": "Published his opinions on linguistic states in book form under the title Thoughts on\nlinguistic States.",
+  "title": "Published his opinions on linguistic states in book form under the title Thoughts on\nlinguistic States.",
+  "date": "00-12-1955",
+  "eventdate": "1955-12",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c6d"
+  },
+  "description": "Dr Ambedkar installed an image of Buddha at Dehu Road (near Pune)",
+  "title": "Dr Ambedkar installed an image of Buddha at Dehu Road (near Pune)",
+  "date": "00-12-1955",
+  "eventdate": "1955-12",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c6e"
+  },
+  "description": "Dr Ambedkar spoke against reservation of seats in the State and Central\nLegislatures.",
+  "title": "Dr Ambedkar spoke against reservation of seats in the State and Central\nLegislatures.",
+  "date": "27-12-1955",
+  "eventImage": "https://drive.google.com/uc?export=view&id=1EPArVZJa5pAxz20tqco5OZl5TlYUbGYJ",
+  "eventdate": "1955-12-27 00:00:00",
+  "imageId": "1EPArVZJa5pAxz20tqco5OZl5TlYUbGYJ",
+  "place": "Delhi",
+  "updatedAt": {
+    "$date": "2021-10-17T16:15:42.513Z"
+  },
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c6f"
+  },
+  "description": "Dr Ambedkar completed his The Buddha and His Dhamma, Revolution & Counter­\nrevolution in Ancient India.",
+  "title": "Dr Ambedkar completed his The Buddha and His Dhamma, Revolution & Counter­\nrevolution in Ancient India.",
+  "date": "00-12-1955",
+  "eventdate": "1955-12",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c70"
+  },
+  "description": "Dr Ambedkar wrote and dictated the Preface of The Buddha and His Dhamma.",
+  "title": "Dr Ambedkar wrote and dictated the Preface of The Buddha and His Dhamma.",
+  "date": "15-03-1956",
+  "eventdate": "1956-03-15",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c71"
+  },
+  "description": "Dr Ambedkar spoke on Linguistic states in the Council of States.Dr Ambedkar\nspoke on BBC London on “Why I like Buddhism”, Also, he spoke for Voice Voice of\nAmerica on “The Future of Indian Democracy”.",
+  "title": "Dr Ambedkar spoke on Linguistic states in the Council of States",
+  "date": "01-05-1956",
+  "eventdate": "1956-05-01",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c72"
+  },
+  "description": "Dr Ambedkar attended a meeting at Nare Park organised on the eve of Buddha\nJayanti, Shri B.G.Kher, Prime Minister of Bombay was Chief Guest. This meeting\nwas the last meeting of Dr Ambedkar in Bombay.",
+  "title": "Dr Ambedkar attended a meeting at Nare Park ",
+  "date": "24-05-1956",
+  "eventdate": "1956-05-24",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c73"
+  },
+  "description": "Opening of Siddharth College of Law in Bombay.",
+  "title": "Opening of Siddharth College of Law in Bombay.",
+  "date": "00-06-1956",
+  "eventdate": "1956-06",
+  "dateFormat": "YM",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c74"
+  },
+  "place": "Nagpur",
+  "description": "Dr Ambedkar embraced Buddhism at an historic ceremony at Nagpur(Now known\n Diksha Bhoomi) with his millions of followers. Prescribed 22 vows to his\nfollowers so that there may be complete severance of bond with Hinduism.",
+  "title": "Dr Ambedkar embraced Buddhism at an historic ceremony",
+  "date": "14-10-1956",
+  "eventImage": "https://drive.google.com/uc?export=view&id=166NwtL7YIxTfKOVSfXm6gXiuqEsvHF_g",
+  "eventdate": "1956-10-14 00:00:00",
+  "imageId": "166NwtL7YIxTfKOVSfXm6gXiuqEsvHF_g",
+  "updatedAt": {
+    "$date": "2021-10-17T15:14:24.799Z"
+  },
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c75"
+  },
+  "description": "Delegate, 4th World Buddhist Conference, Katmandu, Nepal where he delivered his\nfamous speech famous speech ‘Buddha or Karl Marx’.",
+  "title": "Delegate, 4th World Buddhist Conference, Katmandu, Nepal where he delivered hisfamous speech famous speech ‘Buddha or Karl Marx’.",
+  "date": "19-11-1956",
+  "eventImage": "https://drive.google.com/uc?export=view&id=1s449Zh7meditib4D3gv48Vv8FRQeeaFI",
+  "eventdate": "1956-11-19 00:00:00",
+  "imageId": "1s449Zh7meditib4D3gv48Vv8FRQeeaFI",
+  "place": "Katmandu, Nepal",
+  "updatedAt": {
+    "$date": "2021-10-17T16:08:01.155Z"
+  },
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c76"
+  },
+  "place": " at his residence, 26 Alipore Road,New Delhi",
+  "description": "Maha Nirvana at his residence, 26 Alipore Road,New Delhi.",
+  "title": "Maha Nirvana",
+  "date": "06-12-1956",
+  "eventImage": "https://drive.google.com/uc?export=view&id=1D9R3w7vRJddQu07xllxXuAJNb1YoJXWH",
+  "eventdate": "1956-12-06 00:00:00",
+  "imageId": "1D9R3w7vRJddQu07xllxXuAJNb1YoJXWH",
+  "updatedAt": {
+    "$date": "2021-10-17T15:09:18.767Z"
+  },
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "614719a58f8c1759a70a3c77"
+  },
+  "place": "Bombay",
+  "description": "Cremation at Dadar Chawpatti – Now known as Chaitya Bhoomi",
+  "title": "Cremation at Dadar Chawpatti – Now known as Chaitya Bhoomi",
+  "date": "07-12-1956",
+  "eventImage": "https://drive.google.com/uc?export=view&id=19L26-aOyZLvGL2e7bo5NCxWANbnE-uzi",
+  "eventdate": "1956-12-07 00:00:00",
+  "imageId": "19L26-aOyZLvGL2e7bo5NCxWANbnE-uzi",
+  "updatedAt": {
+    "$date": "2021-10-17T15:31:47.859Z"
+  },
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61c89319cb85ae1bf6201caa"
+  },
+  "title": "Mahatma Phule's Birth Date.",
+  "place": "Pune, Maharashtra",
+  "eventdate": "1827-04-11",
+  "dateFormat": "DMY",
+  "profileId": "61a0aa5b8d193e6fe8123f8e",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61c89319cb85ae1bf6201cab"
+  },
+  "title": "Married to Savitribai, the daughter of Khandoji Nevase at Naigaon.",
+  "eventdate": "1840",
+  "dateFormat": "Y",
+  "profileId": "62a0aa5b8d193e6fe8123f8e",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61c89319cb85ae1bf6201cac"
+  },
+  "title": "Death of Jyotirao's father Govindrao.",
+  "eventdate": "1868",
+  "dateFormat": "Y",
+  "profileId": "63a0aa5b8d193e6fe8123f8e",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61c89319cb85ae1bf6201cad"
+  },
+  "title": "Opened the well of his house to the untouchables.",
+  "eventdate": "1869-06-01",
+  "dateFormat": "YMD",
+  "profileId": "64a0aa5b8d193e6fe8123f8e",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61c89319cb85ae1bf6201cae"
+  },
+  "title": "Chatrapati Shivaji Raje Bhonsle yancha povada",
+  "eventdate": "1873-06-01",
+  "description": "Mahatma phule wrote powada on Chatrapati Shivaji Raje Bhonsle",
+  "dateFormat": "YMD",
+  "profileId": "65a0aa5b8d193e6fe8123f8e",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61c89319cb85ae1bf6201caf"
+  },
+  "title": "Founding of the Satyashodhak Samaj.",
+  "eventdate": "1873-09-24",
+  "dateFormat": "YMD",
+  "profileId": "66a0aa5b8d193e6fe8123f8e",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61c89319cb85ae1bf6201cb0"
+  },
+  "title": "Report of Pune's branch of Satya Shodhak Samaj.",
+  "eventdate": "1877-03-20",
+  "dateFormat": "YMD",
+  "profileId": "67a0aa5b8d193e6fe8123f8e",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61c89319cb85ae1bf6201cb1"
+  },
+  "title": "Made presentation to Hunter Education Commission.",
+  "eventdate": "1882-10-19",
+  "dateFormat": "YMD",
+  "profileId": "68a0aa5b8d193e6fe8123f8e",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61c89319cb85ae1bf6201cb2"
+  },
+  "title": "Written the most famous book 'Shetkarayacha Aasud (Cultivator's Whipcord)'.",
+  "eventdate": "1883-07-18",
+  "dateFormat": "YMD",
+  "profileId": "69a0aa5b8d193e6fe8123f8e",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61c89319cb85ae1bf6201cb3"
+  },
+  "title": "Published the book 'Ishara'",
+  "eventdate": "1885-10-01",
+  "dateFormat": "YMD",
+  "profileId": "70a0aa5b8d193e6fe8123f8e",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61c89319cb85ae1bf6201cb4"
+  },
+  "title": "Junnar Court's decision in favour of villager's right",
+  "eventdate": "1885-03-29",
+  "dateFormat": "YMD",
+  "profileId": "71a0aa5b8d193e6fe8123f8e",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61c89319cb85ae1bf6201cb5"
+  },
+  "title": "Felicitated by Duke of Connaught.",
+  "eventdate": "1888-03-02",
+  "dateFormat": "YMD",
+  "profileId": "72a0aa5b8d193e6fe8123f8e",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61c89319cb85ae1bf6201cb6"
+  },
+  "title": "Felicitated by public and was honoured with the title of' MAHATMA'",
+  "eventdate": "1888-05-11",
+  "dateFormat": "YMD",
+  "profileId": "73a0aa5b8d193e6fe8123f8e",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61c89319cb85ae1bf6201cb7"
+  },
+  "title": "Started writing the book 'Sarvajanik Satya Dharma Poostak'",
+  "eventdate": "1889-04-01",
+  "dateFormat": "YMD",
+  "profileId": "74a0aa5b8d193e6fe8123f8e",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61c89319cb85ae1bf6201cb8"
+  },
+  "title": "Death of Mahatma Jyotirao Phule (in Pune).",
+  "eventdate": "1890-11-28",
+  "dateFormat": "YMD",
+  "profileId": "75a0aa5b8d193e6fe8123f8e",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61cf45a0373d3b423682e62e"
+  },
+  "place": "Bhima Koregao, Pune, Maharashtra, India",
+  "description": " BR Ambedkar visited the Bhima-Koregaon war memorial on the 109th anniversary of the battle on 1 January 1927.",
+  "title": "Bhima-Koregaon war memorial on the 109th ",
+  "eventImage": "",
+  "eventdate": "1927-01-01",
+  "imageId": "18yHqZeA7rV8Cuty1Aqg5jFUTNSfopcRT",
+  "dateFormat": "YMD",
+  "profileId": "619fb208ddce84039796ac03",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61d82859ef191524af719a5f"
+  },
+  "place": "Kamptee, Nagpur, (Maharashtra), India",
+  "description": "Hardas Laxmanrao Nagrale, popularly referred to as Babu Hardas, became an Indian Dalit leader, politician and social reformer. He became an ardent follower of B. R. Ambedkar and became pioneer of the exercise of exchanging the greeting Jai Bhim among the Dalits.",
+  "title": "Hardas Laxmanrao Nagrale (6 January 1904 – 12 January 1939) Died",
+  "eventdate": "1904-01-06",
+  "dateFormat": "YMD",
+  "status": 1
+},{
+  "_id": {
+    "$oid": "61d83235ef191524af719a60"
+  },
+  "place": "Kamptee, Nagpur, (Maharashtra), India",
+  "description": "Hardas Laxmanrao Nagrale, popularly referred to as Babu Hardas, became an Indian Dalit leader, politician and social reformer. He became an ardent follower of B. R. Ambedkar and became pioneer of the exercise of exchanging the greeting Jai Bhim among the Dalits.",
+  "title": "Hardas Laxmanrao Nagrale (6 January 1904 – 12 January 1939) Died",
+  "eventdate": "1939-01-12",
+  "dateFormat": "YMD",
+  "status": 1
+}]
